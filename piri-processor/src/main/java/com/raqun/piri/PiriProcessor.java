@@ -1,4 +1,4 @@
-package com.raqun;
+package com.raqun.piri;
 
 import com.squareup.javapoet.ClassName;
 import com.squareup.javapoet.JavaFile;
@@ -39,7 +39,7 @@ public final class PiriProcessor extends AbstractProcessor {
 
     @Override
     public SourceVersion getSupportedSourceVersion() {
-        return super.getSupportedSourceVersion();
+        return SourceVersion.RELEASE_7;
     }
 
     @Override

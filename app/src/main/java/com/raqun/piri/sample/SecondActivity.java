@@ -6,10 +6,6 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.raqun.piri.PiriActivity;
 
-/**
- * Created by tyln on 09/05/2017.
- */
-
 @PiriActivity
 public class SecondActivity extends AppCompatActivity {
     @Override
