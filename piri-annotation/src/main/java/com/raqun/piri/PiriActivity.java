@@ -1,4 +1,4 @@
-package com.raqun;
+package com.raqun.piri;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
